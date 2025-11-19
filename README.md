@@ -35,12 +35,6 @@ Here are some highlights from my repositories:
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anikettri&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anikettri&layout=compact&theme=radical)
-
----
-
 ## 🌱 Current Focus
 - Enhancing automation frameworks with **modular design**  
 - Expanding expertise in **API contract testing**  
@@ -49,8 +43,8 @@ Here are some highlights from my repositories:
 ---
 
 ## 📫 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
-- 📧 Email: your.email@example.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/tushar-chauhan-013b3a19a/)
+- 📧 Email: tusharchauhan5343457@gmail.com  
 
 ---
 
