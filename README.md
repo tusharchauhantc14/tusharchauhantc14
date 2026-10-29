@@ -1,49 +1,16 @@
-# Hi there 👋 I'm Tushar Chauhan
-
-🚀 **Backend Java Developer | Fintech Product Engineer**  
-Building scalable backend systems for lending platforms, modernizing legacy applications, and delivering reliable business-critical features.
-
----
-
-## 🧑‍💻 About Me
-- 💻 Backend Java Developer with 2+ years of experience in fintech and lending systems  
-- 🏦 Working on FinnOne Neo CAS, a customer acquisition platform used in lending workflows  
-- 🔧 Experienced in Spring Boot, Hibernate, and REST API development  
-- 🔁 Hands-on experience in legacy modernization, including JSP to React UI migration  
-- 🧠 Strong focus on business-rule-driven systems like repayment schedules and condition-based workflows  
-- 📈 Passionate about writing clean, maintainable, and scalable code  
-
----
-
-## 🛠️ Tech Stack
-- **Languages:** Java, JavaScript  
-- **Backend:** Spring Boot, Hibernate, REST APIs, Microservices  
-- **Frontend (Exposure):** React.js, JSP, HTML, CSS  
-- **Databases:** MySQL, Oracle, Redis  
-- **Messaging & Infra:** Kafka, Docker  
-- **Security:** Spring Security, JWT  
-- **Tools:** Git, Maven, IntelliJ IDEA, Postman, Jira  
-
----
-
-## 📂 What I Work On
-- 🔹 Lending domain systems (loan onboarding, repayment schedule generation, rule-based workflows)  
-- 🔹 Backend APIs for enterprise and fintech applications  
-- 🔹 Legacy-to-modern migrations and system refactoring  
-
----
-
-## 🌱 Current Focus
-- Designing configurable business-rule engines  
-- Improving backend performance and stability  
-- Learning system design and microservices architecture  
-
----
-
-## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/tushar-chauhan-013b3a19a  
-- 📧 Email: tusharchauhan5343457@gmail.com  
-
----
-
-✨ *"Good software is built with clarity, discipline, and respect for the business it serves."*
+Hi, I'm Tushar Chauhan 👋
+I'm a Senior Software Engineer at Nucleus Software in Noida, with 4 years of experience building Java/Spring Boot backends and automation frameworks for financial lending platforms. I'm a Best Performer Award winner and have solved 250+ problems on LeetCode.
+What I work on
+🧱 Automation framework development: I build the backend services and framework for Selenium-based automation, powering a daily unit-testing pipeline across Personal, Home and Auto Loan products. It cut debugging and bug-tracking effort by 40–45%.
+🔌 Reusable framework APIs: I created 10+ API functions for test data setup and validation, cutting manual effort by 40%.
+🛡️ Centralized exception handling: I designed an exception-capture framework at the service layer that improved issue-resolution efficiency by 70%.
+📋 Conditions module: A rule-evaluation engine for loan applications.
+📄 Letter and form generation: Custom letter and application form generation, including the JSP-to-React migration across five loan products, with secure PDF-viewer URLs.
+⚛️ Full-stack work: React UI components and dashboards consuming REST APIs.
+Currently building
+🤖 An AI-Powered ATDD Copilot (Python, LangChain, RAG, ChromaDB). It indexes a large Java/Selenium/Cucumber repository to help engineers with feature normalization and missing step generation.
+Other projects
+Checkify: A maker–checker backend built with Spring and Hibernate
+Transaction Management System: A Core Java banking backend
+Tech: Java, Spring Boot, Spring Security, Hibernate, Microservices, Kafka, Redis, MySQL, Oracle, React.js, Selenium, JUnit, TestNG, Jenkins, Docker, Git
+📫 LinkedIn | 🧩 LeetCode
